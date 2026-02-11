@@ -35,7 +35,7 @@ Break down the work into manageable, deliverable components:
 - Dependencies and risk identification
 - Release plan and milestone mapping
 
-#### 3. Execution &amp; Tracking
+#### 3. Execution & Tracking
 Maintain momentum through structured collaboration:
 - **Meetings:** Daily standups and weekly syncs
 - **Project Boards:** Track work through states (Backlog → Ready → In Progress → In Review → QA → Done)
@@ -45,7 +45,7 @@ Maintain momentum through structured collaboration:
   - Require at least one approval before merge
 - **Testing:** Comprehensive coverage including unit tests, integration tests, E2E tests, and security scanning
 
-#### 4. Risk &amp; Communication
+#### 4. Risk & Communication
 Proactively manage uncertainty and maintain transparency:
 - **Risk Register:** Document risks with impact/likelihood ratings
 - **Risk Reviews:** Weekly assessment of active risks
@@ -53,7 +53,7 @@ Proactively manage uncertainty and maintain transparency:
 - **Single Source of Truth:** Centralized status reporting
 - **Escalation Paths:** Clear procedures for addressing critical issues
 
-#### 5. Release &amp; Deployment
+#### 5. Release & Deployment
 Execute releases with confidence through standardized processes:
 - **Release Types:** Follow semantic versioning (patch/minor/major)
 - **Pre-Release Requirements:**
@@ -64,7 +64,7 @@ Execute releases with confidence through standardized processes:
 - **Deployment Checklist:** Step-by-step verification
 - **Post-Deploy Verification:** Smoke tests and monitoring
 
-#### 6. Retrospective &amp; Improvement
+#### 6. Retrospective & Improvement
 Learn and evolve after each sprint, release, or incident:
 - Structured retrospectives with the team
 - Focus on what went well and what could improve
@@ -97,10 +97,10 @@ Learn and evolve after each sprint, release, or incident:
 
 - **Initiation:** Define goals, stakeholders, scope, and success criteria
 - **Planning:** Break down work, assign roles, set milestones, identify risks
-- **Execution &amp; Tracking:** Deliver in iterative cycles, monitor progress, adjust
-- **Risk &amp; Communication:** Proactive risk identification, clear communication paths, transparent updates
-- **Release &amp; Deployment:** Structured release process for smooth delivery
-- **Retrospective &amp; Improvement:** Regular review to learn &amp; improve
+- **Execution & Tracking:** Deliver in iterative cycles, monitor progress, adjust
+- **Risk & Communication:** Proactive risk identification, clear communication paths, transparent updates
+- **Release & Deployment:** Structured release process for smooth delivery
+- **Retrospective & Improvement:** Regular review to learn & improve
 
 ## Docs Index
 
